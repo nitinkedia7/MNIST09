@@ -1,2 +1,4 @@
 Pipfile
 temp/
+*.py
+plots/
